@@ -78,7 +78,7 @@ body {
 }
 
 .total-todoTrans {
-    background-color: #f2f9ff;
+    background-color: antiquewhite;
     padding: 10px;
     margin-bottom: 20px;
     border-radius: 6px;
@@ -100,8 +100,13 @@ body {
     color: #ffffff;
     width: 800px;
     margin: 0 auto;
+    margin-top: 5px;
 }
 
 .strikeout {
     text-decoration: line-through;
 }
+
+.navbar-title{
+    padding-top: 8px;
+    }

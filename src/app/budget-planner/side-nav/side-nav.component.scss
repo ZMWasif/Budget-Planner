@@ -60,6 +60,8 @@
     border-radius: 10px;
     background-color: #ffffff;
     margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
 }
 
 .edit-col:hover {
@@ -72,4 +74,9 @@
     border-radius: 5px;
     padding: 4px;
     background-color: #06775e;
+    color: #ffffff;
+}
+
+.navbar-title{
+padding-top: 8px;
 }

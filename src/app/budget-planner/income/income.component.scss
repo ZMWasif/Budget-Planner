@@ -8,6 +8,8 @@
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .container {
@@ -102,6 +104,7 @@ outline: none;
     background: linear-gradient(135deg, #159957, #155799);
     padding: 5px 10px;
     margin: 0 auto;
+    margin-top: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -109,3 +112,7 @@ outline: none;
     border-radius: 20px;
     width: 800px;
 }
+
+.navbar-title{
+    padding-top: 8px;
+    }
